@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3TMhrONZmTl/MRIia7lUeOH9sec+9Yzn7/9IjyfSSzs8biwSAiT1UKjes52Xw70U0hsObS4MIUSYBURFf9hU7w==",
+  "success": true,
+  "projectFilePath": "C:\\REPOSITORY\\ASP.NET\\iwad23-asp-demo\\Asp-Exo01-Routing\\Asp-Exo01-Routing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hanane\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Hanane\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Hanane\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Hanane\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
